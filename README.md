@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square" alt="Buy Me a Coffee"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=zamallrockk&style=flat-square&color=blueviolet" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/zamallrockk?style=social" />
+  <img src="https://img.shields.io/github/followers/zamallrock?style=social" />
 </p>
 
 ---
