@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zamallrock/zamallrock/main/assets/neon-glitch-banner.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/zamallrock/zamallrock/main/assets/neon-glitch-banner.gif" width="10%" />
 </p>
 
 <h1 align="center">
