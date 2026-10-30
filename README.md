@@ -50,7 +50,7 @@
 
 - 🎯 Airdrop farming & wallet rotation  
 - 💸 Auto-swap, stake, and bridge  
-- 📦 Deploy smart contracts  
+- 📦 Vibe Coding 
 - 🔎 Blockchain data collection  
 - 🔁 Time-based repetition bots
 </details>
