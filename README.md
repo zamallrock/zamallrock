@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Ethers.js-4E5EE4?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://aiclub.ai.id/builder/5f0077ff786249cba5cc5caa7ae13af6.svg?style=classic&v=2" alt="Powered by AICLUB" width="200" height="36">
 
 </p>
 
